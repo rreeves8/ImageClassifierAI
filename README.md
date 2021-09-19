@@ -8,3 +8,7 @@ Issues:
 Future Updates: 
   Database to store weights and biases for continued training 
   GUI for displaying the image and the AI's guess at what number it is
+
+
+Credit:
+  https://github.com/turkdogan/mnist-data-reader I copied his mnist data reader classes to interpolate the data
