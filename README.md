@@ -2,7 +2,7 @@
 A Neural Network that can determine the hand-drawn number on a greyscale image. Training data is from the MNIST database of hand-drawn images. Coded from scratch
 
 Issues: 
-  Propagation methods are completed however error in the assembly of Connection and Neuron objects is causing issues 
+  Propagation methods are completed however error in the assembly of Connection and Neuron objects is causing issues
   Error in back propagation formula for the internal layers I think is causing more issues
 
 Future Updates: 
