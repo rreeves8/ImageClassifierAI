@@ -10,5 +10,7 @@ Future Updates:
   GUI for displaying the image and the AI's guess at what number it is
 
 
+This code is no where near optimized or at best coding practices yet
+
 Credit:
   https://github.com/turkdogan/mnist-data-reader I copied his mnist data reader classes to interpolate the data
