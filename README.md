@@ -7,7 +7,7 @@ Issues:
 
 Future Updates: 
   Database to store weights and biases for continued training,
-  GUI for displaying the image and the AI's guess at what number it is
+  GUI for displaying the image and the AI's guess at what number it is,
   Convert propogation methods to recursive alorgithims instead of for loops to properly utilize OOP
 
 Credit: https://github.com/turkdogan/mnist-data-reader I copied this repositories mnist data reader classes to interpolate the data
